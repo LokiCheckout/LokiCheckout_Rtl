@@ -2,7 +2,7 @@
     "modules": [],
     "config": [],
     "tests": [],
-    "module_name": "Yireo_Rtl",
+    "module_name": "LokiCheckout_Rtl",
     "composer_name": "loki-checkout/magento2-rtl",
     "php_versions": [
         "8.2",
