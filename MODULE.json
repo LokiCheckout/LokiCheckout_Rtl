@@ -1,5 +1,7 @@
 {
-    "modules": [],
+    "modules": [
+        "Magento_Store"
+    ],
     "config": [],
     "tests": [],
     "module_name": "LokiCheckout_Rtl",
@@ -12,7 +14,9 @@
     ],
     "skip_magento_versions": [],
     "skip_css_utils": false,
-    "sequence": [],
+    "sequence": [
+        "Magento_Store"
+    ],
     "phpcs_severity": "8",
     "phpstan_level": "5",
     "components": []
