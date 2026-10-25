@@ -13,11 +13,6 @@
         "php": ">=8.2 <8.6"
     },
     "license": "OSL-3.0",
-    "extra": {
-        "loki": {
-            "countries": []
-        }
-    },
     "autoload": {
         "files": [
             "registration.php"
